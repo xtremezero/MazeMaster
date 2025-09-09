@@ -1,9 +1,9 @@
 const cacheName = "XtremeZero-Maze-0.1.0";
 const contentToCache = [
-    "Build/MazeOut.loader.js",
-    "Build/MazeOut.framework.js.br",
-    "Build/MazeOut.data.br",
-    "Build/MazeOut.wasm.br",
+    "Build/MazeMaster.loader.js",
+    "Build/MazeMaster.framework.js",
+    "Build/MazeMaster.data",
+    "Build/MazeMaster.wasm",
     "TemplateData/style.css"
 
 ];
